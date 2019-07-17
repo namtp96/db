@@ -1,0 +1,16 @@
+{
+  "name": "convert-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "uuidv4": "^4.0.0"
+  },
+  "devDependencies": {}
+}
